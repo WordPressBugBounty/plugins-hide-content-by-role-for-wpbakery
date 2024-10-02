@@ -1,0 +1,1 @@
+# plugins-hide-content-by-role-for-wpbakery
