@@ -3,9 +3,9 @@ Contributors: wpterra, wpterrade, andreasmuench
 Donate link: https://wpterra.com
 Tags: wpbakery, hide, show, post, page
 Requires at least: 4.7.0
-Tested up to: 6.1.1
+Tested up to: 6.7.2
 Requires PHP: 5.6
-Stable tag: trunk
+Stable tag: 1.2.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
